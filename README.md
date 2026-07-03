@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm sonuraj!
 
-<!--
-**sonuraj2006/sonuraj2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I am actively sharpening my programming skills.
+- 📚 I am currently practicing Data Structures and Algorithms (**DSA**).
+- ⚡ Fun fact: I love solving complex technical problems and building tools!
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, Java ,C
+- **Tools:** Git, GitHub, VS Code, Oracle
+- **Database:** Sql,Mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 My Repositories
+- 🧩 [DSA Problems Collection](https://github.com) — My daily practice solutions.
+- 💻 [Programs Repo](https://github.com) — My core programming logic and task solutions.
+
+### 📬 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/banoth-sonu-raj-15748a353/
+- **Email:** nehasonubanoth05@gmail.com
+-
